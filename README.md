@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ezan777
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and unreal engine 5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
