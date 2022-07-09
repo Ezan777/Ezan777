@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ezan777
-- 👀 I’m interested in videogames and android application developing
+- 👀 I’m interested in videogames and android applications
 - 🌱 I’m currently improving my C++ skills, learning unreal engine 5, dart and flutter
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
